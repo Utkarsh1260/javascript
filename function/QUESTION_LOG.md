@@ -1,5 +1,7 @@
 # Question Log
 
+## Beginner Level
+
 * Q1. Create a function named `greet` that prints `"Hello World"`.
 * Q2. Create a function `add(a, b)` that returns the sum.
 * Q3. Write a function to calculate the square of a number.
