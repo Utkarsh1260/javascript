@@ -1,41 +1,21 @@
 # Question Log
 
-## Q1.
+## Q1. Create a function named `greet` that prints `"Hello World"`.
 
-Create a function named `greet` that prints `"Hello World"`.
+## Q2. Create a function `add(a, b)` that returns the sum.
 
-## Q2.
+## Q3. Write a function to calculate the square of a number.
 
-Create a function `add(a, b)` that returns the sum.
+## Q4. Create a function that checks whether a number is even or odd.
 
-## Q3.
+## Q5. Write a function that converts Celsius to Fahrenheit.
 
-Write a function to calculate the square of a number.
+## Q6. Create a function with default parameter `"Guest"`.
 
-## Q4.
+## Q7. Write a function that returns the greater of two numbers.
 
-Create a function that checks whether a number is even or odd.
+## Q8. Create a function to calculate area of rectangle.
 
-## Q5.
+## Q9. Write a function that returns `"Adult"` if age ≥ 18 else `"Minor"`.
 
-Write a function that converts Celsius to Fahrenheit.
-
-## Q6.
-
-Create a function with default parameter `"Guest"`.
-
-## Q7.
-
-Write a function that returns the greater of two numbers.
-
-## Q8.
-
-Create a function to calculate area of rectangle.
-
-## Q9.
-
-Write a function that returns `"Adult"` if age ≥ 18 else `"Minor"`.
-
-## Q10.
-
-Create a function to reverse a string.
+## Q10. Create a function to reverse a string.
